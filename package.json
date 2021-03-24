@@ -1,0 +1,21 @@
+{
+    "name": "atomize-forreal",
+    "displayName": "Atomize ForReal",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Atomize (For Real)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Atomize (For Real)-color-theme.json"
+            }
+        ]
+    }
+}
