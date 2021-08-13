@@ -3,8 +3,8 @@
 	"displayName": "Atomize (by NDSF)",
 	"description": "Atomized theme",
 	"publisher": "nerdchandise",
-	"version": "1.1.0",
-	"repository": "",
+	"repository": "https://github.com/nerdchandise/atomize-ndsf",
+	"version": "1.1.1",
 	"engines": {
 		"vscode": "^1.46.0"
 	},
